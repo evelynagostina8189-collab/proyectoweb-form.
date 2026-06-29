@@ -1,0 +1,62 @@
+/* Estilo general */
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f8f5f0;
+    color: #333;
+}
+
+/* Barra de navegación */
+.navbar{
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Títulos */
+h1, h2{
+    color: #8B0000;
+    font-weight: bold;
+}
+
+/* Sección principal */
+#inicio{
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Nosotros */
+#nosotros{
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    margin-top: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Formulario */
+#contacto{
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.form-control{
+    border-radius: 8px;
+}
+
+.btn-primary{
+    background-color: #8B0000;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #a50000;
+}
+
+/* Pie de página */
+footer{
+    margin-top: 40px;
+    font-size: 14px;
+}
